@@ -1,0 +1,1 @@
+spider与spider2都是可行的，spider2更简洁一点。
